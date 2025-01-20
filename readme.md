@@ -152,6 +152,6 @@ Aqua Guardian, an advanced cleanup drone, integrates software and hardware capab
 ---
 
 **Presented by:**  
-Sarvesh PV (Software & Control Systems)  
-Balaganesh S (ML & Hardware Integration)  
-Armaan Ahmed I (Mechanical Design & Hardware Integration)
+Sarvesh PV   
+Balaganesh S 
+Armaan Ahmed I 
